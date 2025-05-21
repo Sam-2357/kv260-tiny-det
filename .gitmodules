@@ -1,0 +1,4 @@
+[submodule "training/wtdbb/yolov5"]
+	path = training/wtdbb/yolov5
+	url = https://github.com/Sam-2357/yolov5.git
+	branch = wtdbb
