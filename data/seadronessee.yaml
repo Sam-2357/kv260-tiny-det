@@ -1,5 +1,5 @@
 # SeaDronesSee in YOLO format
-path: data/SDS_yolo
+path: /home/sam/projects/kv260-tiny-det/data/SDS_yolo
 train: train/images
 val:   val/images
 nc: 1           # number of classes (modify if you split boat/swimmer/etc.)
